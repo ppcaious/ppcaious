@@ -1,6 +1,4 @@
-<div align="left">
-  <img height="250" src='https://github.com/ppcaious/ppcaious/blob/main/796d985b00c60a0c24bafd35b584237f.gif'/>
-</div>
+![Image](https://github.com/user-attachments/assets/262798f2-f860-42a1-8f53-5439e029d112)
 
 ###
 
